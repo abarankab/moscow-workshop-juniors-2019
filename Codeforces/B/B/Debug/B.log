@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\baran\desktop\prog\zhksh\codeforces\b\b\source.cpp(14): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\baran\desktop\prog\zhksh\codeforces\b\b\source.cpp(24): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\zhksh\codeforces\b\b\source.cpp(26): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\zhksh\codeforces\b\b\source.cpp(41): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\zhksh\codeforces\b\b\source.cpp(42): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\baran\desktop\prog\zhksh\codeforces\b\b\source.cpp(50): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\zhksh\codeforces\b\b\source.cpp(51): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\baran\desktop\prog\zhksh\codeforces\b\b\source.cpp(66): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\zhksh\codeforces\b\b\source.cpp(67): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\baran\desktop\prog\zhksh\codeforces\b\b\source.cpp(75): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\zhksh\codeforces\b\b\source.cpp(76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  B.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Codeforces\B\Debug\B.exe
+  B.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Codeforces\B\Debug\B.pdb (Partial PDB)

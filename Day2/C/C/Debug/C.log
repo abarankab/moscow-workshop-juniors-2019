@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\baran\desktop\prog\zhksh\day2\c\c\source.cpp(8): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  C.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Day2\C\Debug\C.exe
+  C.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Day2\C\Debug\C.pdb (Partial PDB)

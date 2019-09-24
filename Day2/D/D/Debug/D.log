@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\baran\desktop\prog\zhksh\day2\d\d\source.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\baran\desktop\prog\zhksh\day2\d\d\source.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\zhksh\day2\d\d\source.cpp(102): warning C4018: '<': signed/unsigned mismatch
+  D.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Day2\D\Debug\D.exe
+  D.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Day2\D\Debug\D.pdb (Partial PDB)

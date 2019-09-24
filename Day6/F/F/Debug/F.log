@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\baran\desktop\prog\zhksh\day6\f\f\source.cpp(11): warning C4068: unknown pragma
+c:\users\baran\desktop\prog\zhksh\day6\f\f\source.cpp(12): warning C4068: unknown pragma
+c:\users\baran\desktop\prog\zhksh\day6\f\f\source.cpp(13): warning C4068: unknown pragma
+c:\users\baran\desktop\prog\zhksh\day6\f\f\source.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\baran\desktop\prog\zhksh\day6\f\f\source.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  F.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Day6\F\Debug\F.exe
+  F.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Day6\F\Debug\F.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\baran\desktop\prog\zhksh\day4\d\d\source.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'll', possible loss of data
+c:\users\baran\desktop\prog\zhksh\day4\d\d\source.cpp(78): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned short', possible loss of data
+  D.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Day4\D\Debug\D.exe
+  D.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Day4\D\Debug\D.pdb (Partial PDB)

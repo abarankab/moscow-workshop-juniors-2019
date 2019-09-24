@@ -1,0 +1,11 @@
+﻿  Source.cpp
+Source.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Source.cpp(40): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 315 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  A.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Day4\A\Release\A.exe
+  A.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Day4\A\Release\A.pdb (Full PDB)

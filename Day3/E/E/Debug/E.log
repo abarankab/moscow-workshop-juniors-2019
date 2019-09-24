@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\baran\desktop\prog\zhksh\day3\e\e\source.cpp(7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  E.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Day3\E\Debug\E.exe
+  E.vcxproj -> C:\Users\baran\Desktop\prog\zhksh\Day3\E\Debug\E.pdb (Partial PDB)
